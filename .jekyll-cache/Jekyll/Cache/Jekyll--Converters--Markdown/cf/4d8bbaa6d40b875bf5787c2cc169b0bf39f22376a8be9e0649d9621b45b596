@@ -1,8 +1,0 @@
-I"%<p>I am an expert in <strong>Natural Language Processing</strong>, currently completing a PhD at the University of Sheffield. My thesis, which is focused on generating graphical summaries of argumentative text, has been submitted, and I am due to sit my viva in September.</p>
-
-<p>The core of my PhD research has involved fine-tuning Large Language Models (LLMs) for <a href="https://en.wikipedia.org/wiki/Argument_mining">Argument Mining</a> tasks, using PyTorch. Alongside this, I designed a novel task within my subfield of NLP, Argument Summary Graph Parsing. I have created and annotated multiple corpora to support this task.</p>
-
-<p>I am the first author of <strong>three peer-reviewed papers</strong> published in leading NLP and speech processing venues, including COMMA (Computational Models of Argument), the 2023 Argument Mining workshop at COLING, and Interspeech.</p>
-
-<p>Prior to studying at Sheffield, I studied the MSc program in Speech and Language Processing at the University of Edinburgh. I have completed two internships; one at <a href="https://www.speakunique.co.uk/">SpeakUnique</a>, researching the application of Machine Learning to <a href="https://www.isca-archive.org/interspeech_2020/clayton20_interspeech.html">Silent Speech Detection</a>; and the other at the <a href="https://www.dhi.ac.uk/">Digital Humanities Institute</a> at Sheffield University, in which I created a pipeline for the processing of historical texts using PyTorch, as part of the <a href="https://www.dhi.ac.uk/projects/linguistic-bede/">Linguistic DNA project</a>.</p>
-:ET
