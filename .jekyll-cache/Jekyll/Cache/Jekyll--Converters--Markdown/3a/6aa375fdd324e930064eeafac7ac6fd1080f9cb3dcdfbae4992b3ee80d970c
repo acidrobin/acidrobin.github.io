@@ -1,0 +1,376 @@
+I"h<!-- _pages/publications.md -->
+
+<!-- Bibsearch Feature -->
+
+<script src="/al-folio/assets/js/bibsearch.js?1bc438ca9037884cc579601c09afd847" type="module"></script>
+
+<p><input type="text" id="bibsearch" spellcheck="false" autocomplete="off" class="search bibsearch-form-input" placeholder="Type to filter" /></p>
+
+<div class="publications">
+
+<h2 class="bibliography">2024</h2>
+<ol class="bibliography"><li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+
+      
+        
+        
+
+        
+
+        
+          <a href="https://doi.org/10.3233/FAIA240308" target="_blank">
+            <img class="preview z-depth-1 rounded" src="/al-folio/assets/img/publication_preview/doc.png" alt="preview" style="width: 120px; height: auto;" />
+          </a>
+        
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="clayton2024parsing" class="col-sm-8">
+    <!-- Title -->
+    
+    
+
+    <div class="title">
+      
+        <a href="https://doi.org/10.3233/FAIA240308" target="_blank">Parsing graphical summaries from argumentative dialogues</a>
+      
+    </div>
+
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Jonathan
+            Clayton, 
+          Marco
+            Damonte, 
+          and Robert
+            Gaizauskas
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>In Computational Models of Argument</em>,  2024
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+        <a href="https://doi.org/10.3233/FAIA240308" class="btn btn-sm z-depth-0" role="button">DOI</a>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+
+    <!-- Badges and hidden sections (unchanged) -->
+    
+  </div>
+</div>
+</li></ol>
+<h2 class="bibliography">2022</h2>
+<ol class="bibliography"><li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+
+      
+        
+        
+
+        
+
+        
+          <a href="https://aclanthology.org/2022.argmining-1.13/" target="_blank">
+            <img class="preview z-depth-1 rounded" src="/al-folio/assets/img/publication_preview/doc.png" alt="preview" style="width: 120px; height: auto;" />
+          </a>
+        
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="clayton2022predicting" class="col-sm-8">
+    <!-- Title -->
+    
+    
+
+    <div class="title">
+      
+        <a href="https://aclanthology.org/2022.argmining-1.13/" target="_blank">Predicting the presence of reasoning markers in argumentative text</a>
+      
+    </div>
+
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Jonathan
+            Clayton  
+          and Robert
+            Gaizauskas
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>In Proceedings of the 9th Workshop on Argument Mining</em>,  2022
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+
+    <!-- Badges and hidden sections (unchanged) -->
+    
+  </div>
+</div>
+</li></ol>
+<h2 class="bibliography">2020</h2>
+<ol class="bibliography"><li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+
+      
+        
+        
+
+        
+
+        
+          <a href="https://doi.org/10.21437/Interspeech.2020-2745" target="_blank">
+            <img class="preview z-depth-1 rounded" src="/al-folio/assets/img/publication_preview/doc.png" alt="preview" style="width: 120px; height: auto;" />
+          </a>
+        
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="clayton2020decoding" class="col-sm-8">
+    <!-- Title -->
+    
+    
+
+    <div class="title">
+      
+        <a href="https://doi.org/10.21437/Interspeech.2020-2745" target="_blank">Decoding Imagined, Heard, and Spoken Speech: Classification and Regression of EEG Using a 14-Channel Dry-Contact Mobile Headset.</a>
+      
+    </div>
+
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Jonathan
+            Clayton, 
+          Scott
+            Wellington, 
+          Cassia
+            Valentini-Botinhao, and
+        <span class="more-authors" title="click to view 1 more author" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '1 more author' ? 'Oliver Watts' : '1 more author';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">1 more author</span>
+      
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>In INTERSPEECH</em>,  2020
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+        <a href="https://doi.org/10.21437/Interspeech.2020-2745" class="btn btn-sm z-depth-0" role="button">DOI</a>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+
+    <!-- Badges and hidden sections (unchanged) -->
+    
+  </div>
+</div>
+</li></ol>
+<h2 class="bibliography">2019</h2>
+<ol class="bibliography"><li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+
+      
+        
+        
+
+        
+
+        
+          <a href="https://doi.org/10.5281/zenodo.3369178" target="_blank">
+            <img class="preview z-depth-1 rounded" src="/al-folio/assets/img/publication_preview/doc.png" alt="preview" style="width: 120px; height: auto;" />
+          </a>
+        
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="wellington2019fourteen" class="col-sm-8">
+    <!-- Title -->
+    
+    
+
+    <div class="title">
+      
+        <a href="https://doi.org/10.5281/zenodo.3369178" target="_blank">Fourteen-channel EEG with Imagined Speech (FEIS) dataset</a>
+      
+    </div>
+
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      S
+            Wellington  
+          and J
+            Clayton
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>University of Edinburgh</em>,  2019
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+        <a href="https://doi.org/10.5281/zenodo.3369178" class="btn btn-sm z-depth-0" role="button">DOI</a>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+
+    <!-- Badges and hidden sections (unchanged) -->
+    
+  </div>
+</div>
+</li></ol>
+
+</div>
+:ET
