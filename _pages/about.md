@@ -27,7 +27,7 @@ social: true # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an expert in **Natural Language Processing**, currently completing a PhD at the University of Sheffield. I have successfully defended my thesis on "Graphical Summarisation of Argumentative Text", and I will be available to work from **January 2025**.
+I am an expert in **Natural Language Processing**, currently completing a PhD at the University of Sheffield. I have successfully defended my thesis on "Graphical Summarisation of Argumentative Text", and I will be available to work from **January 2026**.
 
 The core of my PhD research has involved fine-tuning Large Language Models (LLMs) for [Argument Mining](https://en.wikipedia.org/wiki/Argument_mining) tasks, using PyTorch. Alongside this, I designed a novel task within my subfield of NLP, named Argument Summary Graph Parsing. I have created and annotated multiple corpora to support this task. 
 
